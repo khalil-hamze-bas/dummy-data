@@ -1,49 +1,92 @@
 {
   "categories": [
-    { "id": 1, "title": "Oncology", "image": "https://media.istockphoto.com/vectors/pharmacy-concept-icon-oncology-medication-research-idea-thin-line-vector-id1215134926" },
-    { "id": 2, "title": "Nuclear", "image": "https://as1.ftcdn.net/v2/jpg/02/87/25/30/1000_F_287253074_tWPX1gg0S5uo9492gijLFa96naYwHj00.jpg" },
-    { "id": 3, "title": "Geriatric", "image": "https://cdn1.vectorstock.com/i/thumb-large/23/95/geriatrics-concept-icon-vector-29112395.jpg"},
-    { "id": 4, "title": "Psychopharmacotherapy", "image": "https://static.vecteezy.com/system/resources/previews/005/963/924/non_2x/psychopharmacotherapy-concept-icon-pharmacy-idea-thin-line-illustration-mental-illness-prescription-drugs-medication-psyche-problems-treatment-isolated-outline-drawing-editable-stroke-vector.jpg"},
-    { "id": 5, "title": "Nutritional", "image": "https://static.vecteezy.com/system/resources/previews/005/963/925/original/nutritional-support-pharmacy-concept-icon-medicine-idea-thin-line-illustration-supplementary-medication-prescription-assistive-drug-therapy-isolated-outline-drawing-editable-stroke-vector.jpg"},
-    { "id": 6, "title": "Hospice", "image": "https://img.myloview.fr/images/pharmacy-concept-icon-hospice-patient-medication-treatment-idea-thin-line-illustration-senior-disabled-people-healthcare-and-pain-relief-vector-isolated-outline-drawing-400-172915588.jpg"},
-    { "id": 7, "title": "Pediatric", "image": "https://thumbs.dreamstime.com/b/pediatric-pharmacy-concept-icon-children-medication-idea-thin-line-illustration-vaccination-illness-medicine-pediatric-180303636.jpg"}
+    { 
+      "id": 1,
+      "name": "Oncology",
+      "image": "https://raw.githubusercontent.com/khalil-hamze-bas/dummy-data/master/images/category/category_1.jpg"
+    },
+    { 
+      "id": 2,
+      "name": "Nuclear",
+      "image": "https://raw.githubusercontent.com/khalil-hamze-bas/dummy-data/master/images/category/category_2.jpg"
+    },
+    { 
+      "id": 3,
+      "name": "Geriatric",
+      "image": "https://raw.githubusercontent.com/khalil-hamze-bas/dummy-data/master/images/category/category_3.jpg"
+    },
+    { 
+      "id": 4,
+      "name": "Psychopharmacotherapy",
+      "image": "https://raw.githubusercontent.com/khalil-hamze-bas/dummy-data/master/images/category/category_4.jpg"
+    },
+    { 
+      "id": 5,
+      "name": "Nutritional",
+      "image": "https://raw.githubusercontent.com/khalil-hamze-bas/dummy-data/master/images/category/category_5.jpg"
+    },
+    { 
+      "id": 6,
+      "name": "Hospice",
+      "image": "https://raw.githubusercontent.com/khalil-hamze-bas/dummy-data/master/images/category/category_6.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Pediatric",
+      "image": "https://raw.githubusercontent.com/khalil-hamze-bas/dummy-data/master/images/category/category_7.jpg"
+    }
   ],
   
   "products": [
     {
       "id": 1,
-      "image": "https://media.istockphoto.com/photos/generic-paracetamol-isolated-on-white-picture-id157402355?k=20&m=157402355&s=612x612&w=0&h=HJbfdh-GpHW4_x5caeWPesLQZIkBA_4w26P2B5I5AvM=",
+      "image": "https://raw.githubusercontent.com/khalil-hamze-bas/dummy-data/master/images/product/product_1.jpg",
       "name": "Acetaminophen",
       "isAddedToCart": false,
       "choosenQuantity": 1
     },
     {
       "id": 2,
-      "image": "https://static.psycom.net/wp-content/uploads/2016/01/Adderall-amphetamine.jpg",
+      "image": "https://raw.githubusercontent.com/khalil-hamze-bas/dummy-data/master/images/product/product_2.jpg",
       "name": "Adderall",
       "isAddedToCart": false,
       "choosenQuantity": 1
     },
     {
       "id": 3,
-      "image": "https://www.crescentpharma.com/wp-content/uploads/2016/01/Amitriptyline_25mg-Tablets_28s.png",
+      "image": "https://raw.githubusercontent.com/khalil-hamze-bas/dummy-data/master/images/product/product_3.jpg",
       "name": "Amitriptyline",
       "isAddedToCart": false,
       "choosenQuantity": 1
     },
     {
       "id": 4,
-      "image": "https://mimsshst.blob.core.windows.net/drug-resources/PH/packshot/GX%20Amlodipine%20Besilate6001PPS0.JPG",
+      "image": "https://raw.githubusercontent.com/khalil-hamze-bas/dummy-data/master/images/product/product_4.jpg",
       "name": "Amlodipine",
       "isAddedToCart": false,
       "choosenQuantity": 1
     },
     {
       "id": 5,
-      "image": "https://www.unicef.org/innovation/sites/unicef.org.innovation/files/styles/two_column/public/amox-dt.jpg?itok=E2tlk563",
+      "image": "https://raw.githubusercontent.com/khalil-hamze-bas/dummy-data/master/images/product/product_5.jpg",
       "name": "Amoxicillin",
       "isAddedToCart": false,
       "choosenQuantity": 1
+    }
+  ],
+
+  "banners": [
+    {
+      "id": 1,
+      "image": "https://raw.githubusercontent.com/khalil-hamze-bas/dummy-data/master/images/home/banner_1.jpg"
+    },
+    {
+      "id": 2,
+      "image": "https://raw.githubusercontent.com/khalil-hamze-bas/dummy-data/master/images/home/banner_2.jpg"
+    },
+    {
+      "id": 3,
+      "image": "https://raw.githubusercontent.com/khalil-hamze-bas/dummy-data/master/images/home/banner_3.jpg"
     }
   ]
 }
