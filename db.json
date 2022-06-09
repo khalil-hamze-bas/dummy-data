@@ -1,4 +1,23 @@
 {
+  "featured_categories": [
+    {
+      "id": 1,
+      "name": "Valentine"
+    },
+    {
+      "id": 2,
+      "name": "Mother's Day"
+    },
+    {
+      "id": 3,
+      "name": "Summer"
+    },
+    {
+      "id": 4,
+      "name": "Wedding"
+    }
+  ],
+  
   "categories": [
     { 
       "id": 1,
