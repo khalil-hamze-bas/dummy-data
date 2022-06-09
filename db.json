@@ -2,19 +2,23 @@
   "featured_categories": [
     {
       "id": 1,
-      "name": "Valentine"
+      "name": "Valentine",
+      "image": "https://raw.githubusercontent.com/khalil-hamze-bas/dummy-data/master/images/home/banner_2.jpg"
     },
     {
       "id": 2,
-      "name": "Mother's Day"
+      "name": "Mother's Day",
+      "image": null
     },
     {
       "id": 3,
-      "name": "Summer"
+      "name": "Summer",
+      "image": "https://raw.githubusercontent.com/khalil-hamze-bas/dummy-data/master/images/home/banner_2.jpg"
     },
     {
       "id": 4,
-      "name": "Wedding"
+      "name": "Wedding",
+      "image": null
     }
   ],
   
