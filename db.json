@@ -111,5 +111,24 @@
       "id": 3,
       "image": "https://raw.githubusercontent.com/khalil-hamze-bas/dummy-data/master/images/home/banner_3.jpg"
     }
+  ],
+  
+  
+  "QuestionAnswers": [
+    {
+      "id": 1,
+      "question": "What's your name",
+      "answer": "Holmed"
+    },
+    {
+      "id": 2,
+      "question": "What's your favorites color",
+      "answer": "Blue"
+    },
+    {
+      "id": 3,
+      "question": "What's your teacher name",
+      "answer": "Nancy"
+    }
   ]
 }
